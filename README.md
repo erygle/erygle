@@ -1,8 +1,8 @@
-<div align="center">
-    <img src="https://github.com/erygle/erygle/assets/99099765/f8dfc222-2231-4c4c-87e4-2f6986931321" alt="Profile Gif">
-</div>
 <h1 align="center">Hi 👋, I'm Eray</h1>
 <h3 align="center">Welcome to my page 🔭</h3>
+<div align="center">
+    <img src="https://github.com/erygle/erygle/assets/99099765/a16ffce1-44b8-4ee9-8676-8b03680b8d49" alt="Profile Gif">
+</div>
 
 - 🌱 I’m currently learning **Machine Learning and Deep learning.**
 
