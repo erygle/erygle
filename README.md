@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/77/8b/0b/778b0bffd36b2dff7d4fa175006ff105.jpg)
 <h1 align="center">Hi 👋, I'm Eray</h1>
-- 🌱 I’m currently learning **Machine and Deep learning.**
+- 🌱 I’m currently learning Machine and Deep learning.
 
 - 📫 How to reach me **eraygle47@gmail.com**
 
