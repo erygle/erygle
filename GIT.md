@@ -44,6 +44,9 @@ git remote add origin https://github.com/erygle/
 git pull origin main
 ```
 ```sh
+git commit -m ""
+```
+```sh
 git push origin main
 ```
 
