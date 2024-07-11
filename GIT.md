@@ -35,17 +35,21 @@ Tüm dosyaları izlemek için
 ```sh
 git add .
 ```
+```sh
+git commit -m ""
+```
 
 ## Repoyu Yönetmek
+```sh
+git branch -M main
+```
 ```sh
 git remote add origin https://github.com/erygle/
 ```
 ```sh
 git pull origin main
 ```
-```sh
-git commit -m ""
-```
+
 ```sh
 git push origin main
 ```
