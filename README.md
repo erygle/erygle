@@ -4,7 +4,7 @@
     <img src="https://github.com/erygle/erygle/assets/99099765/a16ffce1-44b8-4ee9-8676-8b03680b8d49" alt="Profile Gif">
 </div>
 
-- 🌱 I’m currently learning **Machine Learning and Deep learning.**
+- 🌱 I’m currently learning **ML** and **Rust Programming Language**.
 
 - 📫 How to reach me **eraygle47@gmail.com**
 
